@@ -1,0 +1,7 @@
+ hblr.txt
+
+@PURPOSE: 提供机器人相关数据结构
+
+@MNEMONIC: Hairobotics Basic Library Robot (hblr)
+
+@DESCRIPTION: 'hblr' 组件组提供了一些描述机器人状态相关的基础数据结构.

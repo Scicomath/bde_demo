@@ -9,9 +9,6 @@ project(${repoName})
 
 include(bde_workspace)
 
-add_library(my_add my_add.cpp)
-target_include_directories(my_add PUBLIC ./)
-
 bde_process_workspace(
         ${CMAKE_CURRENT_LIST_DIR}
 )
